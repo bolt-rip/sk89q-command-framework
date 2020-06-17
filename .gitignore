@@ -1,8 +1,16 @@
 # Maven
 target/
 
+# Maven Shade Plugin
+dependency-reduced-pom.xml
+
 # Java
 *.class
 *.jar
 *.war
 *.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
